@@ -1,0 +1,52 @@
+body{
+    /* display: flex; */
+    background-color: blueviolet;
+}
+
+.content{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    gap: 100px;
+    font-size: xx-large;
+    margin-top: 100px;
+
+}
+.Convert{
+    color: #fff;
+    cursor: pointer;
+
+}
+.Reset{
+    cursor: pointer;
+color: #fff;
+}
+.Change{
+    color: #fff;
+    cursor: pointer;
+
+}
+.divInput,.h1Div{
+    display: flex;
+margin-top: 100px;
+    justify-content:center ;
+    align-items: center;
+    
+}
+.input{
+height: 30px;
+width: 200px;
+}
+.c{
+    /* display: none;    */
+}
+.f{
+    /* display: none; */
+}
+.h3Div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: goldenrod;
+font-size: x-large;
+}
